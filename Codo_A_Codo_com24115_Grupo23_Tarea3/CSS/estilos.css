@@ -1,0 +1,54 @@
+
+/*
+
+Codo a codo
+Full Stack Java
+Comisión 24115
+Grupo 23
+Tarea 3
+
+Fecha: 15/04/24
+Última actalización: 15/04/24
+● Utilizar CSS para aplicar formatos a los párrafos, títulos y demás 
+elementos de las páginas HTML de nuestro proyecto.
+● Utilizar CSS en el formulario
+
+*/
+h1{
+    color: forestgreen;
+    text-align: center;
+    font-size: 70px;
+    font-family: cursive;
+}
+
+h2{
+    color: sienna;
+}
+
+h3{
+    color:darkslateblue
+}
+
+h4{
+    color: forestgreen;
+}
+
+p{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+}
+
+ul{
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: palegreen;
+}
